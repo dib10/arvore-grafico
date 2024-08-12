@@ -6,7 +6,7 @@ import plotly.express as px
 df = pd.read_csv('dadosarvores.csv')
 
 # Título principal
-st.title('Análise de Árvores - Estrutura de Dados 2')
+st.title('Desempenho AVL x Rubro-Negra - Estrutura de Dados 2')
 
 # Seleção de estado do vetor
 estado = st.radio(
