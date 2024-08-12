@@ -1,0 +1,5 @@
+Árvore,Métrica,Ordenado,Desordenado
+AVL,Segundos,3,4
+AVL,Microssegundos,3088000,4098000
+Rubro Negra,Segundos,3,4
+Rubro Negra,Microssegundos,2999000,4001000
